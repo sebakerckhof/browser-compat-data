@@ -338,7 +338,7 @@
             "description": "Audio capture support",
             "support": {
               "chrome": {
-                "version_added": false
+                "version_added": "74"
               },
               "chrome_android": {
                 "version_added": false
